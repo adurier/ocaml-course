@@ -1,4 +1,8 @@
 site_name: Functional Programming in OCaml - Polytech Saclay
+# site_url: "https://ocaml.durier.xyz/en/"
+
+theme:
+    name: 'material'
 
 nav:
-    - Back: ../
+    - Back: 'https://ocaml.durier.xyz/'

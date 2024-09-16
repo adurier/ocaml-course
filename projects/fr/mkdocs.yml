@@ -1,4 +1,8 @@
 site_name: Programmation Fonctionnelle - OCaml - Polytech Saclay
+# site_url: "https://ocaml.durier.xyz/fr/"
+
+theme:
+    name: 'material'
 
 nav:
   - Accueil: index.md
@@ -6,5 +10,4 @@ nav:
     - slides/index.md
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
     - Cours 1 - Typage et Expressions: slides/1.2-types.md
-  - Publications: 'publis.md'
   - A propos: about.md
