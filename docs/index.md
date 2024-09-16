@@ -1,2 +1,2 @@
-Ce cours est uniquement disponible en [[docs/fr/index|français]] pour le moment; j’espère pouvoir bientôt mettre à disposition une version en [[docs/en/index|anglais]].
-This course is only available in [[docs/fr/index|french]] for now; I hope to be able to translate it to [[docs/en/index|english]] shortly.
+Ce cours est uniquement disponible en [[webdev/ocaml/projects/fr/docs/index|français]] pour le moment; j’espère pouvoir bientôt mettre à disposition une version en [[webdev/ocaml/projects/en/docs/index|anglais]].
+This course is only available in [[webdev/ocaml/projects/fr/docs/index|french]] for now; I hope to be able to translate it to [[webdev/ocaml/projects/en/docs/index|english]] shortly.
