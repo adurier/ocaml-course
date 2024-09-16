@@ -1,8 +1,0 @@
-site_name: OCaml - Functional Programming / Programmation Fonctionnelle - Polytech Saclay
-
-nav:
-  - Français: '/fr/index.md'
-  - English: '/en/index.md'
-  - Retour/Back to adrien.durier.xyz: 'https://adrien.durier.xyz'
-not_in_nav: |
-  /index.md

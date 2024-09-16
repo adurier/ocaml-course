@@ -1,2 +1,2 @@
 This course is not yet available in English, as it is still very much a work in progress.
-For now, please go back to the [[webdev/ocaml/projects/fr/docs/index|french version of this course]], or consider other online ocaml courses, such as [this one](https://cs3110.github.io/textbook/cover.html).
+For now, please go back to the [french version of this course](https://ocaml.durier.xyz/fr/), or consider other online ocaml courses, such as [this one](https://cs3110.github.io/textbook/cover.html).
