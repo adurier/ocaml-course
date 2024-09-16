@@ -1,8 +1,6 @@
 site_name: Programmation Fonctionnelle - OCaml - Polytech Saclay
 # site_url: "https://ocaml.durier.xyz/fr/"
 
-theme:
-    name: 'material'
 
 nav:
   - Accueil: index.md
