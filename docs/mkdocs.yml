@@ -1,3 +1,5 @@
+site_name: OCaml - Functional Programming / Programmation Fonctionnelle - Polytech Saclay
+
 nav:
   - Français: fr/index.md
   - English: en/index.md
