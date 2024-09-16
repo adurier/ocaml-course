@@ -104,8 +104,7 @@ extra:
       link: /fr/
       lang: fr
 plugins:
-#  - search
-#  - roamlinks
+  - search
   - obsidian-bridge
   - callouts
   - projects
