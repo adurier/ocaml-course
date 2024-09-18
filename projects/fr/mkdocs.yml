@@ -27,7 +27,7 @@ theme:
 #    - navigation.footer
 #    - toc.follow
     - navigation.indexes
-    logo: assets/logo.png
+    logo: ../assets/logo.png
     icon:
       repo: fontawesome/brands/git-alt
 
