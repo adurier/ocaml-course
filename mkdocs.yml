@@ -3,8 +3,8 @@ site_url: "https://ocaml.durier.xyz/"
 # Empty for local (or multiple domain?) use.
 
 nav:
-  - Français: '/fr/index.md'
-  - English: '/en/index.md'
+  - Français: '/fr/'
+  - English: '/en/'
   - Retour/Back to adrien.durier.xyz: 'https://adrien.durier.xyz'
 not_in_nav: |
   /index.md
