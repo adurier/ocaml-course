@@ -3,15 +3,30 @@ site_name: Programmation Fonctionnelle - OCaml - Polytech Saclay
 
 
 nav:
-  - Accueil: index.md
+  - Accueil: 
+    - index.md
+    - Fonctionnement du cours: 
+        - home/this.md
+        - Devoirs et Questions (Moodle): 'https://moodle.durier.xyz'
+        - Plateforme learn-ocaml (SOON): 'https://learn-ocaml.durier.xyz'
+    - Ressources en ligne: 
+        - home/resources.md
+        - Utiliser OCaml: home/install.md
+        - Cours, supports de cours et exercices en ligne: home/courses.md
   - Transparents: 
     - slides/index.md
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
     - Cours 1 - Typage et Expressions: slides/1.2-types.md
-  - A propos: about.md
+#  - Glossaire: /glossary/index.md
+  - A propos: 
+    - about/index.md
+    - Licence: about/license.md
+#    - Sources: about/sources.md
+#    - Outils: about/tools.md
+not_in_nav: |
+  /wip.md
 
 
-  
 theme:
     name: 'material'
     features:
