@@ -1,1 +1,1 @@
-# Cours et Exercices en ligne
+# Cours, supports de cours et Exercices en ligne
