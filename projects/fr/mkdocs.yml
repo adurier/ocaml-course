@@ -7,8 +7,8 @@ nav:
     - index.md
     - Fonctionnement du cours: 
         - home/this.md
-        - Devoirs et Questions (Moodle): 'https://moodle.durier.xyz'
-        - Plateforme learn-ocaml (SOON): 'https://learn-ocaml.durier.xyz'
+        - Devoirs et Questions (Moodle) 🌐: 'https://moodle.durier.xyz'
+        - Plateforme learn-ocaml (SOON) 🌐: 'https://learn-ocaml.durier.xyz'
     - Ressources en ligne: 
         - home/resources.md
         - Utiliser OCaml: home/install.md
@@ -36,12 +36,12 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand # "the left sidebar will expand all collapsible subsections by default"
+#    - navigation.expand  "the left sidebar will expand all collapsible subsections by default"
     - navigation.path
     - navigation.sections
 #    - navigation.footer
 #    - toc.follow
-    - navigation.indexes
+#    - navigation.indexes
     logo: ../assets/logo.png
     icon:
       repo: fontawesome/brands/git-alt
