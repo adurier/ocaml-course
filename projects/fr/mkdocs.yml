@@ -6,13 +6,13 @@ nav:
   - Accueil: 
     - index.md
     - Fonctionnement du cours: 
-        - home/this.md
-        - Devoirs et Questions (Moodle) 🌐: 'https://moodle.durier.xyz'
-        - Plateforme learn-ocaml (SOON) 🌐: 'https://learn-ocaml.durier.xyz'
+        - home/index.md
+        - 🌐Moodle (devoirs/questions): 'https://moodle.durier.xyz'
+        - 🌐Plateforme learn-ocaml: 'https://learn-ocaml.durier.xyz'
     - Ressources en ligne: 
-        - home/resources.md
-        - Utiliser OCaml: home/install.md
-        - Cours, supports de cours et exercices en ligne: home/courses.md
+        - resources/index.md
+        - Utiliser OCaml: resources/install.md
+        - Cours, supports de cours et exercices en ligne: resources/courses.md
   - Transparents: 
     - slides/index.md
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
