@@ -33,15 +33,18 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    - navigation.instant.preview
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-#    - navigation.expand  "the left sidebar will expand all collapsible subsections by default"
+    - navigation.expand # "the left sidebar will expand all collapsible subsections by default"
     - navigation.path
     - navigation.sections
-#    - navigation.footer
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
 #    - toc.follow
-#    - navigation.indexes
+#    - toc.integrate
     logo: ../assets/logo.png
     icon:
       repo: fontawesome/brands/git-alt
