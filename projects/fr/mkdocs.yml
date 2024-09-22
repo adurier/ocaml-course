@@ -121,7 +121,7 @@ markdown_extensions:
 
       
 repo_url: https://github.com/adurier/ocaml-course
-copyright: Copyleft © 2024 Adrien Durier - CC BY-NC-SA 4.0
+copyright: [Copyleft](about/license) © 2024 Adrien Durier - CC BY-NC-SA 4.0
 extra:
   social:
     - icon: fontawesome/brands/github 
