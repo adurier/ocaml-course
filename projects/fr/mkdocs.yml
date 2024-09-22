@@ -7,12 +7,12 @@ nav:
     - index.md
     - Fonctionnement du cours: 
         - home/index.md
-        - 🌐Moodle (devoirs/questions): 'https://moodle.durier.xyz'
-        - 🌐Plateforme learn-ocaml: 'https://learn-ocaml.durier.xyz'
-    - Ressources en ligne: 
+        - Moodle (devoirs/questions)🌐↗: 'https://moodle.durier.xyz'
+        - Plateforme learn-ocaml🔜: 'https://learn-ocaml.durier.xyz'
+    - Ressources: 
         - resources/index.md
         - Utiliser OCaml: resources/install.md
-        - Cours, supports de cours et exercices en ligne: resources/courses.md
+        - Supports en ligne: resources/courses.md
   - Transparents: 
     - slides/index.md
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
@@ -23,9 +23,9 @@ nav:
     - Licence: about/license.md
 #    - Sources: about/sources.md
 #    - Outils: about/tools.md
-not_in_nav: |
-  /wip.md
-
+#not_in_nav: |
+#  wip.md
+#🌐
 
 theme:
     name: 'material'
