@@ -133,7 +133,7 @@ extra:
     - name: Français
       link: /fr/
       lang: fr
-  generator: false
+  #generator: false
 plugins:
   - search
   - obsidian-bridge
