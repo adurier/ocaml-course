@@ -94,9 +94,9 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.magiclink
+  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - def_list
   - pymdownx.details
   - pymdownx.critic
   - pymdownx.betterem
