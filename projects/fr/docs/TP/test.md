@@ -27,15 +27,15 @@ let rec f x = f x
 
 # TITRE
 
-=== “Fiche 1: test”
+=== "C"
 
-    ``` ocaml
+    ``` ocaml 
     let rec f x = f x
     ```
 
-=== “Fiche 8 OJGZEPJPO”
+=== "C DPJOFSPPSO"
 
-    ```
+    ``` 
     Ceci est PAS du markdown
     ```
 
