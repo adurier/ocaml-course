@@ -35,7 +35,10 @@ let rec f x = f x
 
 === “Fiche 8 OJGZEPJPO”
 
-    Ceci est du markdown
+    ```
+    Ceci est PAS du markdown
+    ```
+
 
 # TITRE2
 
