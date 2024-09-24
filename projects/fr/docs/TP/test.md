@@ -1,4 +1,4 @@
-``` ocaml title="CECI NEST PAS DU MARKDOWN"
+﻿``` ocaml title="CECI NEST PAS DU MARKDOWN"
 let rec f x = f x
 ```
 
