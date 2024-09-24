@@ -10,5 +10,5 @@
 3. Un cours qui reprend les basiques!
 ## Supports de cours et exercices
 Le Cours de Kim Nguyen à l’université Paris-Saclay a un programme relativement proche de notre cours à Polytech: 
-* [Introduction à la Programmation Fonctionnelle :octicons-link-external-16:](https://usr.lmf.cnrs.fr/~kn/ipf_en.html)
-* [Programmation Fonctionnelle Avancée :octicons-link-external-16:](https://usr.lmf.cnrs.fr/~kn/pfa_en.html)
+- [Introduction à la Programmation Fonctionnelle :octicons-link-external-16:](https://usr.lmf.cnrs.fr/~kn/ipf_en.html)
+- [Programmation Fonctionnelle Avancée :octicons-link-external-16:](https://usr.lmf.cnrs.fr/~kn/pfa_en.html)
