@@ -15,11 +15,12 @@ Dès que cela fonctionne, je mettrai en marche un serveur [learn-ocaml](https://
 ##### Site du cours
 Vous êtes ici! :fontawesome-solid-location-dot: 
 Vous trouverez ici des infos générales sur le cours, [[../slides/index|les slides]], des liens vers des [[../resources/index#Ressources en ligne|ressources utiles]] ou [[../resources/courses#Cours complets|d’autres cours en lignes]], les [[../archives/index|archives]] de l’année précédente… Je mettrai, dans la mesure du possible, le cours lui-même sur le site, avec au moins un glossaire d’ocaml et quelques exercices directement ici. Mon but est d’intégrer la totalité du site sur ce site, sous forme de documentation/wiki, mais je fais tout en même temps donc je ferai ce que je peux…
+J’essaierai également de le traduire en anglais.
 ## Devoirs à la maison
 
 Voici le résultat de vos votes en ce qui concerne les mini-devoirs hebdomadaires:
 
-=== "Résultat du vote wooclap"
+=== "Résultat du sondage wooclap"
 
 ![[/assets/wooclap.png]]
 ## Evaluation
