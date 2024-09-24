@@ -20,5 +20,3 @@ Slides de l’année 2023-2024, en grande partie repris des slides de Sylvain Co
 	4. [[files/CM3/compil.pdf|Compilation]]
 	5. [[files/CM3/files.pdf|Fichiers]]
 	6. [[files/CM3/modules.pdf|Modules]]
-
-%% [[files/TD_revision.pdf|**TD de révision/Préparation à l’examen**]]%% 
