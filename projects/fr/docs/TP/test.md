@@ -1,4 +1,4 @@
-﻿``` ocaml title="CECI NEST PAS DU MARKDOWN"
+``` ocaml title="CECI NEST PAS DU MARKDOWN"
 let rec f x = f x
 ```
 
@@ -28,7 +28,7 @@ let rec f x = f x
 # TITRE
 
 === “Fiche 1: test”
-	
+
     ``` ocaml title="test LALALALA"
     let rec f x = f x
     ```
