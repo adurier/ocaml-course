@@ -25,7 +25,8 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 *Merci à Daniel Hirschkoff pour ces fiches!!*
 ### Fiche 1: Introduction - Déclarations et fonctions
 
-=== “Fiche 1 - Source”
+=== "Fiche 1 - Source"
+
 	``` ocaml title="Fiche 1"
 	(* OCAML : Fiche d'introduction *)
 	(* I. Déclarations et fonctions *)
@@ -120,8 +121,9 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 	(* Définissez fibonacci *)
 	let fibonacci : int -> int = fun n -> 0
 	```
-	
-=== “Fiche 1: Télécharger”
+
+=== "Fiche 1: Télécharger"
+
 	[Télécharger la fiche :material-download:](fiche01.ml){ .md-button }
 
 ### Fiche 2: Let et Types
