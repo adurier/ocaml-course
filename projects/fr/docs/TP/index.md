@@ -26,7 +26,7 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 ### Fiche # 1: Introduction - Déclarations et fonctions
 
 === “Fiche 1 - Source”
-	```
+	``` ocaml title="Fiche 1"
 	(* OCAML : Fiche d'introduction *)
 	(* I. Déclarations et fonctions *)
 	(* Essayez de compiler ligne à ligne le code suivant; complétez la fonction f2_5 *)
