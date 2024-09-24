@@ -13,6 +13,7 @@ nav:
         - resources/index.md
         - Utiliser OCaml: resources/install.md
         - Supports en ligne: resources/courses.md
+        - Archive 2023: archives/index.md
   - Transparents: 
     - slides/index.md
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
