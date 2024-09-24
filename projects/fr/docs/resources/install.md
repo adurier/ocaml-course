@@ -4,8 +4,8 @@
 
 La méthode la plus simple pour tester `OCaml` et créer des programmes simples est d’utiliser un des interpréteurs en ligne: 
 <div class="annotate" markdown>
-- [x] Sur le site officiel: [ocaml.org/play :octicons-link-external-24:](https://ocaml.org/play)
-- [x] Sur [try.ocaml.pro :octicons-link-external-24:](https://try.ocaml.pro) (1) 
+- [x] Sur le site officiel: [ocaml.org/play :octicons-link-external-16:](https://ocaml.org/play)
+- [x] Sur [try.ocaml.pro :octicons-link-external-16:](https://try.ocaml.pro) (1) 
 </div>
 
 1. Celui-ci permet d’exécuter du code ligne à ligne, ce qui peut être plus pratique pour les TP
