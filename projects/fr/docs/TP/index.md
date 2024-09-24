@@ -1,7 +1,7 @@
 # TP - Page Temporaire
 J’essaie de mettre en place notre propre déploiement de la plateforme “learn-ocaml” ce qui nous permettra d’y avoir nos propres exercices, et peut-être même devoirs à la maison ou TP notés. Cela dit je me heurte pour l’instant à des difficultés techniques; en attendant je vous propose d’utiliser cette page comme point de chute temporaire pour télécharger les fichiers de TP.
 
-## Mise en bouche
+## Exercices (TP 0)
 
 Avant toute chose, je vous propose de réaliser les exercices suivants sur l’instance publique de learn ocaml.
 
