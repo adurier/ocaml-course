@@ -23,7 +23,7 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 
 ## Fiches de TP
 *Merci à Daniel Hirschkoff pour ces fiches!!*
-### Fiche # 1: Introduction - Déclarations et fonctions
+### Fiche 1: Introduction - Déclarations et fonctions
 
 === “Fiche 1 - Source”
 	``` ocaml title="Fiche 1"
@@ -124,6 +124,6 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 === “Fiche 1: Télécharger”
 	[Télécharger la fiche :material-download:](fiche01.ml){ .md-button }
 
-### Fiche # 2: Let et Types
+### Fiche 2: Let et Types
 
-### Fiche # 3: Listes
+### Fiche 3: Listes
