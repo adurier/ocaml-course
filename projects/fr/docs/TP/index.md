@@ -20,6 +20,7 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 > 	- 3.3 [Simple Functions over Integers](https://ocaml-sf.org/learn-ocaml-public/exercise.html#id=mooc/week1/seq4/ex1&tab=text&prelude=shown)
 > 	- 3.4 [Simple Functions over Strings](https://ocaml-sf.org/learn-ocaml-public/exercise.html#id=mooc/week1/seq4/ex2&tab=text)
 
+<!--
 
 ## Fiches de TP
 *Merci à Daniel Hirschkoff pour ces fiches!!*
@@ -125,3 +126,6 @@ Avant toute chose, je vous propose de réaliser les exercices suivants sur l’i
 	(* Définissez fibonacci *)
 	let fibonacci : int -> int = fun n -> 0
 	```
+
+
+-->
