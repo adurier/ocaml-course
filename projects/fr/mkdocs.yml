@@ -19,7 +19,9 @@ nav:
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
     - Cours 1 - Typage et Expressions: slides/1.2-types.md
 #  - Glossaire: /glossary/index.md
-  - TP: TP/index.md
+  - TP: 
+    - TP0: TP/index.md
+    - Fiches de TP: 'https://moodle.durier.xyz/course/section.php?id=6'
   - A propos: 
     - about/index.md
     - Licence: about/license.md
