@@ -18,8 +18,8 @@ nav:
     - slides/index.md
     - Cours 1 - Introduction à OCaml: slides/1.1-intro.md
     - Cours 1 - Typage et Expressions: slides/1.2-types.md
-    - Cours 2 - Declarations, portee et top-level: slides/2.1-let.md
-    - Cours 2 - Complément Typage: slides/2.2-types2.md
+    - Cours 2 - Let, portée, top-level: slides/2.1-let.md
+    - Cours 2 - Typage II: slides/2.2-types2.md
 #  - Glossaire: /glossary/index.md
   - TP: 
     - TP0: TP/index.md
