@@ -1,4 +1,4 @@
 # Bienvenue
 
-Bienvenue sur le site du cours de Programmation Fonctionnelle de [Polytech Paris-Saclay](https://polytech-paris-saclay.jimdofree.com/). Ce **est en construction**, et je vais essayer d’intégrer le plus possible du cours sur le site au fur et à mesure. Pour l’instant, vous y trouverez des liens et des infos sur le cours, les transparents, et les instructions pour les premiers TP.
+Bienvenue sur le site du cours de Programmation Fonctionnelle de [Polytech Paris-Saclay](https://polytech-paris-saclay.jimdofree.com/). Ce site **est en construction**, et je vais essayer d’intégrer le plus possible du cours sur le site au fur et à mesure. Pour l’instant, vous y trouverez des liens et des infos sur le cours, les transparents, et les instructions pour les premiers TP.
 Le cours s’adresse à des étudiants en 4e (ET4) année d’école d’ingénieur, spécialité informatique, mais qui n’ont à priori jamais fait de programmation fonctionnelle. Il est donc calibré en fonction. Le site est ouvert à tous, n’hésitez pas à l’utiliser si vous êtes étudiant ailleurs ou que vous souhaitez apprendre OCaml!
