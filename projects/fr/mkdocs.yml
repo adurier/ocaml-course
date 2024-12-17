@@ -21,6 +21,7 @@ nav:
     - Cours 2 - Let, portée, top-level: slides/2.1-let.md
     - Cours 2 - Typage II: slides/2.2-types2.md
     - Cours 3 - Listes & Types Algébriques: slides/3-lists.md
+    - Cours 4 - Retour à l'impératif: slides/4-imper.md
 #  - Glossaire: /glossary/index.md
   - TP: 
     - TP0: TP/index.md
