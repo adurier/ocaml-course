@@ -1,4 +1,5 @@
-# ocaml-course
+# This repository is archived because the course was removed 
+## ocaml-course
 
 This is the repository for my Functional Programming course in OCaml, that I give since 2023 at [Polytech Paris-Saclay](https://www.polytech-reseau.org/polytech-paris-saclay/) in ‘ET4’ (computer science specialization). I will try to create a full course online, but this is very much work in progress and not at all complete for now.
 
